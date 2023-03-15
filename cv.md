@@ -44,7 +44,7 @@ All works are checked by mentors and pass a code review.
 
 #### Example of Code
 
-function recycle(array) {  
+`function recycle(array) {  
   const garbage = []  
   const paper = []  
   const glass = []  
@@ -66,7 +66,7 @@ function recycle(array) {
   })  
   garbage.push(paper, glass, organic, plastic)   
   return garbage  
-}  
+}  `
 
 ### Languages
 * **English** - C1
