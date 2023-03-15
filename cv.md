@@ -45,7 +45,7 @@ All works are checked by mentors and pass a code review.
 #### Example of Code
 
 function recycle(array) {  
-  const garbage = []  `
+  const garbage = []  
   const paper = []  
   const glass = []  
   const organic = []  
